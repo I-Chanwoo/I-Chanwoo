@@ -38,4 +38,4 @@
 
 ---
 ![Chanwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Chanwoo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minter-v1&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Chanwoo&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
