@@ -1,9 +1,7 @@
 <p align="center">
-<img 
-  src="https://capsule-render.vercel.app/api?type=blur&color=0:fbc2eb,100:a6c1ee&height=300&section=header&text=I'm%20Chanwoo%20!&fontSize=90" />
-</p>
+<img src ="https://github.com/user-attachments/assets/3106a90c-13a7-4f1e-a4c5-0b212a7938df">
 
-<h1 align="center">🔥🔥🔥</h1>
+<h1 align="center">🪼🪼🪼</h1>
 <h3>Tech Stack🌟</h3>
 <div>
   <img src = "https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white">
@@ -16,18 +14,18 @@
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<h3>Studying📝</h3>
+<h3>Studying🌟</h3>
 <p>
   <img src = "https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white">
   <img style="display:inline-block;" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 </p>
 
 
-<h3>⚙️IDE</h3>
+<h3>IDE🌟</h3>
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 
-<h3>🛠️Tools</h3>
+<h3>Tools🌟</h3>
 
 <div>
 <img  src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
@@ -37,5 +35,4 @@
 </div>
 
 ---
-![Chanwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Chanwoo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Chanwoo&layout=compact&card_width=495&langs_count=8&custom_title=Most%20Used%20Languages)
+![Chanwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Chanwoo&show_icons=true&bg_color=30,3f5efb,63ccf1&title_color=ffffff&text_color=ffffff&icon_color=ffd700)
